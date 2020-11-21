@@ -33,3 +33,8 @@ for movie in movies:
             'star':star
         }
         db.movies.insert_one(doc)
+# td 태그 사이의 텍스트를 가져오기
+#
+#
+#
+# td 태그 사이의 텍스트를 가져오기
